@@ -1,0 +1,11 @@
+#include <stdio.h>
+void main()
+{
+  int x = 20;
+  int y = 22;
+  if(x<y)
+  {
+    printf("Value of x is less yhan y");
+  }
+  getch();
+}
